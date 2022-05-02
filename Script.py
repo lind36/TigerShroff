@@ -14,8 +14,8 @@ i𝗍𝗌 𝖾𝖺𝗌𝗒 𝗍𝗈 𝗎𝗌𝖾 𝗆𝖾; 𝗃𝗎𝗌𝗍 𝖺
     ABOUT_TXT = """
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  Tiger Shroff
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1951205538'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a>
+║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  Minnal Murali
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1559837284'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a>
 ║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/Abhisheksvlog'>Everyone in this journey </a>
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3 </a>
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ </a>
